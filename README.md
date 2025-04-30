@@ -1,8 +1,3 @@
 # Age-and-Gender-Detection
-
-
-
-## Upcoming Project  On Progress
-
-DAY 01
-DAY 02
+### ReadMe.md 
+### Comming Sooonnn
